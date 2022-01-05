@@ -1,0 +1,33 @@
+
+
+body{
+	background-color: #ddd !important;
+}
+
+
+form{
+	background: #fff;
+
+}
+
+.container-fluid{
+
+	padding-top: 15vh;
+}
+.form-container{
+	border-radius: 10px;
+	padding: 30px;
+	box-shadow: 0px 0px 10px 0px;
+
+}
+
+.user-icon{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: -35px;
+	left: 42.5%;
+	border-radius: 40px;
+	box-shadow: 0px 0px 5px 0px;
+
+}
